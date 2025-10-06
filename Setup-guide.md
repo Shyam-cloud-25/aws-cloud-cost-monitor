@@ -37,7 +37,7 @@ This guide explains the step-by-step process for setting up the AWS Cloud Cost M
 
 ## ✅ Project Completed
 
-- At this point, the AWS Cloud Cost Monitor demo project is complete!
+- The AWS Cloud Cost Monitor demo project is complete!
 We have a working cost monitoring system that:
  - Tracks budget usage.
  - Sends alerts via SNS.
